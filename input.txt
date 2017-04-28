@@ -1,0 +1,5 @@
+whoami;;;;;whoami;
+whoami;;
+whoami;ls;ls;ls;ls
+;;;;
+quit;
